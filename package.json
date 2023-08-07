@@ -1,0 +1,28 @@
+{
+  "name": "api-node-express-2sem2023",
+  "version": "1.0.0",
+  "description": "projeto api de backend usando express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaka1804/api-node-express-2sem2023.git"
+  },
+  "keywords": [
+    "spi"
+  ],
+  "author": "Kauê Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaka1804/api-node-express-2sem2023/issues"
+  },
+  "homepage": "https://github.com/Kaka1804/api-node-express-2sem2023#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
